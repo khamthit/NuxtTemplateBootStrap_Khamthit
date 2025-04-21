@@ -1,0 +1,14 @@
+/* assets/css/main.css */
+
+body {
+  /* Apply Noto Sans Lao first (for Lao characters),
+     then Noto Sans (for general Unicode/Latin characters),
+     then a generic sans-serif fallback */
+  font-family: 'Noto Sans Lao', 'Noto Sans', sans-serif;
+
+  /* You might have other body styles here already */
+  /* e.g., margin: 0; color: #333; etc. */
+}
+
+/* Add any other global styles below */
+
